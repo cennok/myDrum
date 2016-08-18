@@ -2,8 +2,8 @@
 #include <WiFiUdp.h>
 #include "TimeLib.h"
 
-const char* ssid = "GVT-CIMD";
-const char* password = "cimD1980";
+const char* ssid = "*******";
+const char* password = "*******";
 
 #define SERVER_PORT 35000
 
